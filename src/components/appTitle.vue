@@ -2,7 +2,7 @@
 export default {
   data() {
     return {
-      title: "My nice title"
+      title: "La mia prima app con Vite!"
     }
   }
 }
